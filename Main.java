@@ -13,7 +13,5 @@ public class Main {
         System.out.println("La matriz resultante es:");
         m.sumarMatricez();
         m.mostrarResultado();
-       
     }
-    
 }
