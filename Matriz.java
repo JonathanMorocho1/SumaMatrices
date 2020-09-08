@@ -1,4 +1,3 @@
-
 public class Matriz {
 
     int[][] enteros;
@@ -39,7 +38,6 @@ public class Matriz {
             }
             System.out.println(" ");
         }
-        //System.out.println(" ");
     }
 
     public void imprimirMatriz2(int[][] llenar) {
